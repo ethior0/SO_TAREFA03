@@ -1,4 +1,6 @@
-# Tarefa de Sistemas Operacionais - Exercícios com Estrutura de Repetição
+# Tarefa de SO - Exercícios com Estrutura de Repetição
+
+> Autor: Thiago dos Santos Moreira
 
 31.	Calcule e mostre o quadrado dos números entre 10 e 150.
 32.	Receba um número inteiro. Calcule e mostre o seu fatorial.
